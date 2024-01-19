@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Reza! 👋
+
+- 🌱 I’m currently learning **NEXT.JS**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienars&show_icons=true&locale=en&layout=compact" alt="alienars" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alienars&show_icons=true&locale=en" alt="alienars" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienars&" alt="alienars" /></p>
 
 <!--
 **alienars/alienars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
