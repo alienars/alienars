@@ -7,7 +7,10 @@ A web developer who has a passion for creating dynamic and user-friendly website
 - 📫 [My Website](https://ra8.ir)
 
 
-#### About Hesam's github
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,xd,figma&theme=dark)](https://skillicons.dev)
+
+
+#### About my github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienars&show_icons=true&locale=en&layout=donut&theme=dark" alt="alienars" /></p>
 
 
