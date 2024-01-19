@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienars&show_icons=true&locale=en&layout=donut&theme=dark" alt="alienars" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienars&show_icons=true&locale=en&layout=pie&theme=dark" alt="alienars" /></p>
 
 
 <!--
